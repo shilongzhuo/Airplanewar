@@ -1,0 +1,51 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/background.jpg</file>
+        <file>image/background2.jpg</file>
+        <file>image/bossbullet.png</file>
+        <file>image/bullet002.png</file>
+        <file>image/enemy002.png</file>
+        <file>image/enemy003.png</file>
+        <file>image/enemy004 .png</file>
+        <file>image/enemyplane001.png</file>
+        <file>image/enemyplane1.jpg</file>
+        <file>image/label.ico</file>
+        <file>image/myplane.png</file>
+        <file>image/MyPlaneBoom.wav</file>
+        <file>image/enemyPlaneBoom.wav</file>
+        <file>image/background4.jpg</file>
+        <file>image/myplane1.png</file>
+        <file>image/enemy005.png</file>
+        <file>image/enemy006.png</file>
+        <file>image/level1.png</file>
+        <file>image/level2.png</file>
+        <file>image/background3.jpg</file>
+        <file>image/level3.jpg</file>
+        <file>image/level3.png</file>
+        <file>image/level4.jpg</file>
+        <file>image/level4.png</file>
+        <file>image/bullet004.png</file>
+        <file>image/enemyplane003.png</file>
+        <file>image/enemybullet005.png</file>
+        <file>image/enemybullet006.png</file>
+        <file>image/suply001.png</file>
+        <file>image/Boos1.png</file>
+        <file>image/Boos2 .png</file>
+        <file>image/hero1.png</file>
+        <file>image/hero2.png</file>
+        <file>image/background001.jpg</file>
+        <file>image/background003.jpg</file>
+        <file>image/background004.jpg</file>
+        <file>image/enemyBullet004.png</file>
+        <file>image/image.jpg</file>
+        <file>image/image2.jpg</file>
+        <file>image/myplane1.jpg</file>
+        <file>image/timg.jpg</file>
+        <file>image/mybullet.png</file>
+        <file>image/Mybullet006.png</file>
+        <file>image/enemy007.png</file>
+        <file>image/introduce.png</file>
+        <file>image/sort.png</file>
+        <file>image/BOOM1.jpg</file>
+    </qresource>
+</RCC>
